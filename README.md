@@ -1,8 +1,8 @@
 ## Example 
 ```code
-const nayan = require('your-project-name');
+const himu = require('all-dl-404');
 
-nayan.alldown('url')
+himu.alldown('url')
   .then(data => {
     console.log(data);
   })
